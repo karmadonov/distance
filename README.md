@@ -1,7 +1,7 @@
 distance
 ========
 
-Calculate distance (in miles) between two coordinates on the map usin Python/C API
+Calculate distance (in miles) between two coordinates on the map using Python/C API
 
 Installation
 ------------
